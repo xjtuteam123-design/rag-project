@@ -1,0 +1,10 @@
+[project]
+name = "chatgpt-webui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio==5.23.1",
+    "openai==1.69.0",
+]
